@@ -1,4 +1,2 @@
-import '@picocss/pico'
-import '../css/global.css'
-
+import './nav.js'
 
